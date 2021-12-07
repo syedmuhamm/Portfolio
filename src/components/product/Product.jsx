@@ -10,6 +10,7 @@ const Product = (img, link) => {
       </div>
 
       <a href={link} target="_blank" rel="noreferrer">
+        {console.log(img)}
         <img src={img} alt="" className="p-img" />
       </a>
     </div>
