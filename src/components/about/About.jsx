@@ -17,22 +17,24 @@ const About = () => {
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
+          I am Syed Muhammad Zulqarnain, a tireless seeker of knowledge,
+          occassional purveyor of wisdom and also, a web developer.
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+          Most of the times, the journey is more enjoyable than destination, as
+          the saying goes that ( Seeking is the reward itself). Doing projects
+          in React has been the same journey for me. At every step, something
+          new and interesting, where the logic and experience of past combines
+          with the present and derivies a promising future.
+          <br />
+          <br />
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
           <div className="a-award-texts">
-            <h4 className="a-award-title">International Design Awards 2021</h4>
+            <h4 className="a-award-title">GitHub Pro 2021</h4>
             <p className="a-award-desc">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-              and fugit.
+              Regular updates of projects on GitHub.
             </p>
           </div>
         </div>
